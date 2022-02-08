@@ -34,3 +34,4 @@ Add a horizontal motion to the div animation. Using the left offset property, ad
     }
   }
   </style>
+<div id="rect"></div>
