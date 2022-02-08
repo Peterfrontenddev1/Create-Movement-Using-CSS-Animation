@@ -10,7 +10,15 @@ Add a horizontal motion to the div animation. Using the left offset property, ad
     border-radius: 5px;
     position: relative;
   }
+      #rect {
+    animation-name: rainbow;
+    animation-duration: 4s;
+  }
 
+  @keyframes rainbow {
+    0% {
+      background-color: blue;
+      left: 0px;
 
     }
     50% {
